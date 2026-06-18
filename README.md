@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avigail Vargas
 -  I’m interested in Spatial Analysis and Remote sensing.
--  I’m currently learning various fields, such as Python-3 and Data Science. I recently graduated from California State University and received a certificate in Geographic Information Systems and Technology.
--  I want to collaborate on any Urban Planning or Cartography projects. Any projects involving ArcGIS Pro works for me as well :)
+-  I’m currently learning various fields, such as Python 3 and Data Science. I recently graduated from California State University Los Angeles and received a certificate in Geographic Information Systems and Technology.
+-  I want to collaborate on any Urban Planning or Cartography projects. Any other projects involving ArcGIS Pro works for me as well :)
 - ⚡ Fun fact: I interned for LAUSD, the largest public school system in California,  for about half a year!
